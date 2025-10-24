@@ -24,7 +24,7 @@ Thank you to the following YouTubers for providing some of the vital info and ti
 ---
 ## Base
 
-![](../assets/Haikyu%20Fly%20High/haikyu_gold_potential.png)
+![](assets/Haikyu%20Fly%20High/haikyu_gold_potential.png)
 
 Here you have an opportunity to get 3 Random Legendary Potential Packs a day! How? Good question. 
 
